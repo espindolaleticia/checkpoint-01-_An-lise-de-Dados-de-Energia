@@ -14,7 +14,8 @@ Milena de Aguiar Lopes Cardoso RM570599
 
 Este projeto apresenta uma atividade prática de **análise e preparação de dados do setor de energia**, utilizando **Orange Data Mining, Python e Pandas**.
 
-O objetivo é aplicar técnicas de organização, inspeção, filtragem e interpretação de dados, relacionando os resultados ao contexto de diferentes fontes e situações de consumo e geração de energia.
+Objetivo:
+Aplicar os procedimentos trabalhados em aula para preparar, inspecionar e analisar diferentes conjuntos de dados do setor de energia, relacionando cada operação realizada ao contexto do dataset.
 
 A atividade foi desenvolvida a partir de seis datasets, divididos entre os integrantes do grupo.
 
@@ -61,13 +62,21 @@ Os dados utilizados foram obtidos a partir das seguintes plataformas:
 
 As fontes estão indicadas no material da atividade e correspondem aos conjuntos de dados utilizados nas análises.
 
+## Desafio final
+
+Situação-problema
+Uma equipe de planejamento energético precisa analisar o comportamento da carga elétrica de uma região atendida pelo Sistema Interligado Nacional (SIN).
+
+Os dados serão obtidos diretamente de uma API pública do Operador Nacional do Sistema Elétrico (ONS). A conexão com a API e a preparação inicial do JSON já estão fornecidas. A partir daí, sua equipe deverá construir o DataFrame, organizar os dados, criar recortes, calcular indicadores, produzir gráficos e elaborar um relatório técnico.
+
 ## Estrutura do projeto
 
 ```text
 📦 analise-dados-energia
  ├── 📄 README.md
  ├── 📓 notebooks/
- │   └── analise_dados.ipynb
+ │   └── cp_01_sers.ipynb
+ | └── Desafio_Final_Energia_ONS_API_Final.ipynb
  └── 📊 datasets/
      └── arquivos CSV utilizados
 ```
