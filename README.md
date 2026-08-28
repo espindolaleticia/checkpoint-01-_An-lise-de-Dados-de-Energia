@@ -1,11 +1,15 @@
 # Análise de Dados — Soluções em Energias Renováveis e Sustentáveis
 Felipe Perdigão Macedo RM570990
+
 Felipe Mitsuo Takahashi Stephano RM570692
+
 Laura Godoy Callegari RM569181
+
 Letícia Araújo Espindola RM569308
-Mariana Dreset Carbollan 569207
-Milena de Aguiar Lopes Cardoso
-RM570599
+
+Mariana Dreset Carbollan RM569207
+
+Milena de Aguiar Lopes Cardoso RM570599
 
 ## Sobre o projeto
 
@@ -16,7 +20,7 @@ O objetivo é aplicar técnicas de organização, inspeção, filtragem e interp
 A atividade foi desenvolvida a partir de seis datasets, divididos entre os integrantes do grupo.
 
 
-## 🗂️ Datasets analisados
+## Datasets analisados
 
 | # | Dataset                                         | Fonte  | Tema                                                      |
 | - | ----------------------------------------------- | ------ | --------------------------------------------------------- |
@@ -58,7 +62,7 @@ Os dados utilizados foram obtidos a partir das seguintes plataformas:
 
 As fontes estão indicadas no material da atividade e correspondem aos conjuntos de dados utilizados nas análises.
 
-## 📁 Estrutura do projeto
+## Estrutura do projeto
 
 ```text
 📦 analise-dados-energia
