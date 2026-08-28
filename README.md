@@ -45,9 +45,11 @@ A relação dos seis datasets e fontes é apresentada no enunciado da atividade.
 O trabalho foi dividido em duas etapas principais:
 
 **1. Orange Data Mining**
-Os datasets foram carregados, inspecionados e preparados. Foram selecionados os atributos necessários, verificadas possíveis inconsistências e valores ausentes e, quando solicitado, realizadas amostragens dos dados para posterior análise.
+
+Os datasets foram carregados, inspecionados e preparados. Foram selecionados os atributos necessários, verificadas possíveis inconsistências e valores ausentes e quando solicitado realizadas amostragens dos dados para posterior análise.
 
 **2. Python / Pandas**
+
 As amostras preparadas foram carregadas no Python. Foram realizadas operações de organização dos atributos, análise estatística, identificação de valores máximos e médios, aplicação de filtros, criação de novos DataFrames, contagem de registros e cálculo de percentuais.
 
 Por fim, os resultados foram interpretados considerando o contexto de cada dataset. Essa organização segue a estrutura proposta na atividade.
