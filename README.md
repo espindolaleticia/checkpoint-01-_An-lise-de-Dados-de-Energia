@@ -1,5 +1,4 @@
 # Análise de Dados — Soluções em Energias Renováveis e Sustentáveis
-Felipe Perdigão Macedo RM570990
 
 Felipe Mitsuo Takahashi Stephano RM570692
 
