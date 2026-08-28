@@ -1,2 +1,70 @@
-# checkpoint-01-_An-lise-de-Dados-de-Energia
-Análise de Dados de Energia
+# Análise de Dados — Soluções em Energias Renováveis e Sustentáveis
+Felipe Perdigão Macedo RM570990
+Felipe Mitsuo Takahashi Stephano RM570692
+Laura Godoy Callegari RM569181
+Letícia Araújo Espindola RM569308
+Mariana Dreset Carbollan 569207
+Milena de Aguiar Lopes Cardoso
+RM570599
+
+## Sobre o projeto
+
+Este projeto apresenta uma atividade prática de **análise e preparação de dados do setor de energia**, utilizando **Orange Data Mining, Python e Pandas**.
+
+O objetivo é aplicar técnicas de organização, inspeção, filtragem e interpretação de dados, relacionando os resultados ao contexto de diferentes fontes e situações de consumo e geração de energia.
+
+A atividade foi desenvolvida a partir de seis datasets, divididos entre os integrantes do grupo.
+
+
+## 🗂️ Datasets analisados
+
+| # | Dataset                                         | Fonte  | Tema                                                      |
+| - | ----------------------------------------------- | ------ | --------------------------------------------------------- |
+| 1 | Appliances Energy Prediction                    | UCI    | Consumo de eletrodomésticos e condições ambientais        |
+| 2 | Steel Industry Energy Consumption               | UCI    | Consumo energético industrial                             |
+| 3 | Power Consumption of Tetouan City               | UCI    | Consumo elétrico de três zonas e variáveis meteorológicas |
+| 4 | Solar Power Generation Data                     | Kaggle | Geração de energia solar e dados de inversores            |
+| 5 | Wind & Solar Energy Production Dataset          | Kaggle | Comparação entre geração eólica e solar                   |
+| 6 | Individual Household Electric Power Consumption | UCI    | Consumo elétrico residencial                              |
+
+A relação dos seis datasets e fontes é apresentada no enunciado da atividade.
+
+## Ferramentas utilizadas
+
+* **Orange Data Mining** — preparação, seleção e amostragem dos dados;
+* **Python** — desenvolvimento das análises;
+* **Pandas** — manipulação dos DataFrames;
+* **Jupyter Notebook / Google Colab** — execução e documentação dos códigos.
+
+# Modo de fazer
+
+O trabalho foi dividido em duas etapas principais:
+
+**1. Orange Data Mining**
+Os datasets foram carregados, inspecionados e preparados. Foram selecionados os atributos necessários, verificadas possíveis inconsistências e valores ausentes e, quando solicitado, realizadas amostragens dos dados para posterior análise.
+
+**2. Python / Pandas**
+As amostras preparadas foram carregadas no Python. Foram realizadas operações de organização dos atributos, análise estatística, identificação de valores máximos e médios, aplicação de filtros, criação de novos DataFrames, contagem de registros e cálculo de percentuais.
+
+Por fim, os resultados foram interpretados considerando o contexto de cada dataset. Essa organização segue a estrutura proposta na atividade.
+
+
+## Fontes dos dados
+
+Os dados utilizados foram obtidos a partir das seguintes plataformas:
+
+* **UCI Machine Learning Repository** — datasets 1, 2, 3 e 6;
+* **Kaggle** — datasets 4 e 5.
+
+As fontes estão indicadas no material da atividade e correspondem aos conjuntos de dados utilizados nas análises.
+
+## 📁 Estrutura do projeto
+
+```text
+📦 analise-dados-energia
+ ├── 📄 README.md
+ ├── 📓 notebooks/
+ │   └── analise_dados.ipynb
+ └── 📊 datasets/
+     └── arquivos CSV utilizados
+```
