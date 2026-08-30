@@ -71,4 +71,13 @@ Uma equipe de planejamento energético precisa analisar o comportamento da carga
 
 Os dados serão obtidos diretamente de uma API pública do Operador Nacional do Sistema Elétrico (ONS). A conexão com a API e a preparação inicial do JSON já estão fornecidas. A partir daí, sua equipe deverá construir o DataFrame, organizar os dados, criar recortes, calcular indicadores, produzir gráficos e elaborar um relatório técnico.
 
+Estrutura do projeto
+
+📦 analise-dados-energia
+ ├── 📄 README.md
+ ├── 📓 notebooks/
+ │   └── analise_dados.ipynb
+ └── 📊 datasets/
+     └── arquivos CSV utilizados
+
 
