@@ -33,10 +33,15 @@ A atividade foi desenvolvida a partir de seis datasets, divididos entre os integ
 
 ## Links
 1- https://archive.ics.uci.edu/dataset/374/appliances+energy+prediction
+
 2- https://archive.ics.uci.edu/dataset/851/steel+industry+energy+consumption
+
 3- https://archive.ics.uci.edu/dataset/849/power+consumption+of+tetouan+city
+
 4- https://www.kaggle.com/datasets/anikannal/solar-power-generation-data
+
 5- https://www.kaggle.com/datasets/ahmeduzaki/wind-and-solar-energy-production-dataset
+
 6- https://archive.ics.uci.edu/dataset/235/individual+household+electric+power+consumption
 
 
